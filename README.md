@@ -1,6 +1,6 @@
 # Hackernews Scraper
 
-Help scripts for scraping hackernews webiste based on the official [Hackernews API](https://github.com/HackerNews/API).
+Help scripts for collecting text from hackernews webiste based on the official [Hackernews API](https://github.com/HackerNews/API).
 
 # Environment variable
 
